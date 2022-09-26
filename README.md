@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github-readme-stats.vercel.app/api?username=diogod1&theme=nord&hide_border=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogod1&theme=nord&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=diogod1&theme=nord&hide_border=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogod1&theme=nord&hide_border=true&layout=compact" />
 </a>
