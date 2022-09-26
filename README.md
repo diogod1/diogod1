@@ -23,15 +23,14 @@ You can click the Preview link to take a look at your changes.
         <td width="50%" style="border: none;">
         <div align="center" width="100%">
           <a href="https://github.com/diogod1">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogod186&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Diogo's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
+          <a href="https://github.com/diogod1">
+            <img src="https://github-readme-stats.vercel.app/api?username=diogod186&show_icons=true&hide=stars&hide_border=true" alt="Diogo's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
