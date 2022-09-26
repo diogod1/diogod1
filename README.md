@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ### GitHub Stats 📈
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="border: none;">
     <tbody>
       <tr>
         <td width="50%" style="border: none;">
