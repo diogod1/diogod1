@@ -23,14 +23,14 @@ You can click the Preview link to take a look at your changes.
         <td width="50%" style="border: none;">
         <div align="center" width="100%">
           <a href="https://github.com/diogod1">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogod186&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Diogo's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogod1&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Diogo's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none;">
         <div align="center" width="100%">
           <a href="https://github.com/diogod1">
-            <img src="https://github-readme-stats.vercel.app/api?username=diogod186&show_icons=true&hide=stars&hide_border=true" alt="Diogo's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=diogod1&show_icons=true&hide=stars&hide_border=true" alt="Diogo's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
